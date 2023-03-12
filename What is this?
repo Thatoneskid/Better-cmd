@@ -1,0 +1,7 @@
+This is going to be a repo with custom commands for command prompt 
+
+There will be an installer and a zip file in each version
+
+The installer will extracty all the file using bat code to a folder
+this folder will contain all the commands so the customcmd will not 
+work without them
